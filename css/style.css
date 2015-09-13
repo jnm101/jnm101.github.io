@@ -1,6 +1,16 @@
 header {
   background-color: #68CCED;
   text-align: center;
+  padding:20px 0;
+}
+
+header h1 {
+  font-size: 20px;
+}
+
+div#welcome {
+  padding: 25px 0;
+  text-align: center;
 }
 
 div#games {
